@@ -1,7 +1,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiaG9uZ3FpYW5saSIsImEiOiJjbGticW84cjIwaGRjM2xvNjNrMjh4cmRyIn0.o65hBMiuqrCXY-3-bxGsUg';
 const map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/hongqianli/cllbn6d7n015p01qkgnrlgbfy',
+    style: 'mapbox://styles/hongqianli/clkz0gnx000lw01p7375xf0qf',
     zoom: 12.5,
     center: [-73.9856, 40.7426],
     pitch: 60, // 设置倾斜角度，例如60度
